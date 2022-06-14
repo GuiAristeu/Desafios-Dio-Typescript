@@ -1,0 +1,14 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "description": "desafio01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GuiAristeu",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
